@@ -2,7 +2,8 @@
 Контрольная работа 2
 
 Задание 1
-https://private-user-images.githubusercontent.com/118944177/523950637-06a0033a-3e2e-4f27-989a-21b91a77146b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyODYxMjIsIm5iZiI6MTc2NTI4NTgyMiwicGF0aCI6Ii8xMTg5NDQxNzcvNTIzOTUwNjM3LTA2YTAwMzNhLTNlMmUtNGYyNy05ODlhLTIxYjkxYTc3MTQ2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxMzEwMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNDNiMGJhNTIyODRlNGM3ODAyYmQ3MWQ1NjJkMmU1ZjAzZmY2NTViNDIyM2YwNzhlZTVkY2E4YmNlZmMyNGE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KYfQMzvv9F5TnWrF2EGhphHKyCdZlF4rSaIbFY7o6XE
+<img width="1877" height="844" alt="изображение" src="https://github.com/user-attachments/assets/2a736861-5335-492c-bf91-ba49c78fbe49" />
+
 <img width="1917" height="846" alt="изображение" src="https://github.com/user-attachments/assets/7e0a3892-6c59-4fb0-b7ae-8646d904ca9b" />
 
 1. Что такое SQL-инъекция?
@@ -43,7 +44,7 @@ Cookie (куки) — это небольшой текстовый файл с �
 ---
 
 Задание 3
-
+https://private-user-images.githubusercontent.com/118944177/523951315-da0896ef-d8af-4869-9538-66c2d3e4cc81.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyODYxMjIsIm5iZiI6MTc2NTI4NTgyMiwicGF0aCI6Ii8xMTg5NDQxNzcvNTIzOTUxMzE1LWRhMDg5NmVmLWQ4YWYtNDg2OS05NTM4LTY2YzJkM2U0Y2M4MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxMzEwMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTU1OGM1YzQ0Njk4MTk3ZGZmOTE1OTk0ZjYxNTEzZWYxZWQ1NDgxODk3ZWI4OTMwOTE1MWYxYjNiMjUxYjQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.08uYInqQHj703r9RKJqKqu0z0rsAcONnN1jzR97LpZI
 1. Наименование параметра: bid (хранится в Session Storage браузера).
 
 2. Рекомендации по защите:
@@ -53,3 +54,6 @@ Cookie (куки) — это небольшой текстовый файл с �
 1. Авторизован ли текущий пользователь.
 2. Принадлежит ли корзина с запрошенным ID (bid) именно этому авторизованному пользователю.
    Только после такой внутренней проверки сервер должен разрешить доступ к данным. Данные от клиента (включая параметры из Session Storage) никогда нельзя использовать для определения прав доступа без дополнительной верификации.
+
+Задание 4
+<img width="1280" height="502" alt="изображение" src="https://github.com/user-attachments/assets/8de0932e-db33-433e-8ba4-d74981ec7c21" />
