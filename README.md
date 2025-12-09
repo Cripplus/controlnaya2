@@ -44,7 +44,8 @@ Cookie (куки) — это небольшой текстовый файл с �
 ---
 
 Задание 3
-https://private-user-images.githubusercontent.com/118944177/523951315-da0896ef-d8af-4869-9538-66c2d3e4cc81.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUyODYxMjIsIm5iZiI6MTc2NTI4NTgyMiwicGF0aCI6Ii8xMTg5NDQxNzcvNTIzOTUxMzE1LWRhMDg5NmVmLWQ4YWYtNDg2OS05NTM4LTY2YzJkM2U0Y2M4MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOVQxMzEwMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNTU1OGM1YzQ0Njk4MTk3ZGZmOTE1OTk0ZjYxNTEzZWYxZWQ1NDgxODk3ZWI4OTMwOTE1MWYxYjNiMjUxYjQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.08uYInqQHj703r9RKJqKqu0z0rsAcONnN1jzR97LpZI
+<img width="1919" height="1045" alt="изображение" src="https://github.com/user-attachments/assets/8cea35fb-f723-454e-828d-5fb62091a3e9" />
+
 1. Наименование параметра: bid (хранится в Session Storage браузера).
 
 2. Рекомендации по защите:
